@@ -1,2 +1,2 @@
 # python_programs
-basic python programs from begining (Aug 2019)
+basic python programs from begining
